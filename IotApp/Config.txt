@@ -1,0 +1,3 @@
+﻿Entry : temperature
+Pippo : temperature
+Pro : temperature humidity co2
